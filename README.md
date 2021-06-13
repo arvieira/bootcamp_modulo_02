@@ -4,7 +4,7 @@
 
 
 # Projeto: Análise do Programa Nacional de Imunizações
-#####Aluno:André Vieira
+### Aluno:André Vieira
 ---
 Este repositório apresenta a o projeto desenvolvido para o Módulo 02 do Segundo Bootcamp de Ciência de Dados da Alura. Serão feitas análises em cima dos dados obtidos na fonte de dados abertos do DATASUS pelo serviço TABNET. Será realizada uma análise exploratória dos dados obtidos com uma explanação. Posteriormente, serão elaboradas hipóteses a serem confirmadas ou refutadas com a utilização de visualização de dados e conceitos de estatística.
 
@@ -34,7 +34,7 @@ Precedendo as análises dos dados, foi necessária um pré-processamento das bas
 
 # Respostas
 ---
-  -Resposta 1: Há uma tendência de estabilidade na cobertura vacinal nas unidades da federação em torno de 70 a 80%. Logo, o dado analisado apresenta uma estabilidade e não um crescimento.
+  - Resposta 1: Há uma tendência de estabilidade na cobertura vacinal nas unidades da federação em torno de 70 a 80%. Logo, o dado analisado apresenta uma estabilidade e não um crescimento.
   - Resposta 2: Pode-se concluir que quanto maior o IDHM de uma unidade da federação, há uma tendência de se ter uma maior cobertura vacinal. No entanto, foram obtidos apenas 4 anos para fins de comparação e a nuvem de pontos se encontra ligeiramente espalhada, possuindo em sua maioria, uma linha de tendência crescente.Isto posto, se faz necessário uma nova comparação com um maior número de anos para afirmações mais precisas, mas a princípio, devido ao espalhamento dos pontos, a dúvida permanece.
   - Resposta 3: Pode-se concluir que as séries históricas das coberturas vacianais das unidades da federação de maior população e de menor população são semelhantes. Inclusive, há determinados anos que o estado de maior população possui uma melhor cobertura vacinal e outros que possui uma pior. Isto posto, conclui-se que o tamanho da população de um estado não influi diretamente na sua cobertura vacinal.
   - Resposta 4: Há uma forma de se induzir o leitor médio a uma conclusão errada. Nesta, os estados menos populosos são mais fáceis de se obter uma cobertura vacinal melhor. No entanto, comparando as séries históricas de coberturas vacinais dos estados mais e menos populosos, pode-se concluir que estas são muito semelhantes, de modo que a populosidade dos mesmos pouco influencia nas coberturas vacinais.
